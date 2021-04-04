@@ -1,0 +1,9 @@
+{
+    "name": "va_test2",
+    "version": "1.0.0",
+    "private": true,
+    "license": "MIT",
+    "devDependencies": {
+        "node-forge": "^0.9.1"
+    }
+}
